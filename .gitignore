@@ -1,4 +1,4 @@
-# Unity generated files
+# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -21,12 +21,10 @@
 # Unity3D generated meta files
 *.pidb
 *.unityproj
-*.sln
 *.suo
 *.tmp
 *.user
 *.userprefs
-*.pidb
 *.booproj
 *.svd
 *.pdb
@@ -36,6 +34,11 @@
 
 # Unity3D generated file on crash reports
 sysinfo.txt
+
+# Unity solution files
+*.sln
+*.slnx
+*.csproj
 
 # Builds
 *.apk
@@ -58,5 +61,4 @@ Thumbs.db
 # IDE
 .idea/
 .vs/
-*.csproj
-*.sln
+.vscode/
