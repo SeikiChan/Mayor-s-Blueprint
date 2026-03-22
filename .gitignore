@@ -1,5 +1,11 @@
-/MayorsBlueprint/Temp
-/MayorsBlueprint/Library
-/MayorsBlueprint/Logs
-/MayorsBlueprint/ProjectSettings
-/MayorsBlueprint
+/MayorsBlueprint/Library/
+/MayorsBlueprint/Temp/
+/MayorsBlueprint/Logs/
+/MayorsBlueprint/Obj/
+/MayorsBlueprint/UserSettings/
+/MayorsBlueprint/.vs/
+/MayorsBlueprint/.idea/
+/MayorsBlueprint/.vscode/
+/MayorsBlueprint/*.csproj
+/MayorsBlueprint/*.sln
+/MayorsBlueprint/*.slnx
